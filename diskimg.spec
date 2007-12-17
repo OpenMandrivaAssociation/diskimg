@@ -10,7 +10,6 @@ Source0: %{name}.tar.bz2
 License: GPL
 Group: Archiving/Backup
 Url: http://www.scylla-charybdis.com/tools.html#diskimg
-BuildRoot: %{_tmppath}/%{name}-buildroot
 
 %description
 DiskImg is a small command-line utility that dumps the contents
