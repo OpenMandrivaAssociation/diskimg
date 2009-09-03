@@ -1,6 +1,6 @@
 %define name diskimg 
 %define version 1.1.1
-%define release %mkrel 7
+%define release %mkrel 8
 
 Summary: A tools to make disks/partitions image
 Name: %{name}
