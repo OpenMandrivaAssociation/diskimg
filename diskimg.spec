@@ -1,7 +1,7 @@
 Summary:	A tools to make disks/partitions image
 Name:		diskimg
 Version:	1.1.1
-Release:	10
+Release:	11
 License:	GPL
 Group:		Archiving/Backup
 Url:		http://www.scylla-charybdis.com/tools.html#diskimg
