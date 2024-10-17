@@ -4,7 +4,7 @@ Version:	1.1.1
 Release:	11
 License:	GPL
 Group:		Archiving/Backup
-Url:		http://www.scylla-charybdis.com/tools.html#diskimg
+Url:		https://www.scylla-charybdis.com/tools.html#diskimg
 Source0:	%{name}.tar.bz2
 
 %description
